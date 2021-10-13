@@ -1,0 +1,395 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1634141873117,7975,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,7743,0,215
+1634141873458,37429,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37189,0,10
+1634141874263,41886,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,41309,0,12
+1634141873862,42443,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,41786,0,22
+1634141881099,35343,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,34670,0,10
+1634141874658,41796,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,41058,0,8
+1634141910889,10854,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,10615,0,8
+1634141916149,26683,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,26246,0,62
+1634141916443,49254,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,48995,0,12
+1634141916305,50393,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,50056,0,39
+1634141921744,45146,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,44767,0,9
+1634141916455,52508,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,52261,0,17
+1634141942834,45355,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,45029,0,9
+1634141965692,46419,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,46127,0,7
+1634141966693,45903,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,45349,0,18
+1634141968958,43697,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,43116,0,12
+1634141966885,45839,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,45230,0,9
+1634141988182,49391,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,49132,0,8
+1634142012109,43717,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,43330,0,36
+1634142012593,44068,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,43783,0,60
+1634142012652,45098,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,44732,0,32
+1634142012722,45124,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,44697,0,11
+1634142037573,25697,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,25437,0,10
+1634142055827,13873,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,13538,0,13
+1634142056662,19412,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,19148,0,15
+1634142057847,51229,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,50857,0,13
+1634142057750,58351,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,58073,0,21
+1634142063271,54901,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,54427,0,8
+1634142069700,48768,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,48153,0,11
+1634142076073,42465,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,41842,0,10
+1634142109076,39371,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,39033,0,90
+1634142116100,38439,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,38190,0,13
+1634142118173,40062,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,39433,0,18
+1634142118468,39940,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,39223,0,21
+1634142118538,39874,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,39107,0,11
+1634142148446,36528,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,36224,0,10
+1634142154539,36328,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,36062,0,14
+1634142158235,37028,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,36771,0,36
+1634142158412,37193,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,36854,0,14
+1634142158408,37413,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37065,0,14
+1634142184975,38027,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37679,0,9
+1634142190866,37802,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37420,0,12
+1634142195821,37601,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,36985,0,7
+1634142195263,38164,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37529,0,9
+1634142195605,37920,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37262,0,28
+1634142223003,35778,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,35387,0,12
+1634142228668,35557,HTTP 요청,200,OK,쓰레드 그룹 1-5,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,35149,0,8
+1634142233524,39448,HTTP 요청,200,OK,쓰레드 그룹 1-3,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37869,0,10
+1634142233426,39574,HTTP 요청,200,OK,쓰레드 그룹 1-4,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37970,0,34
+1634142233422,39591,HTTP 요청,200,OK,쓰레드 그룹 1-1,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,37986,0,26
+1634142258781,34122,HTTP 요청,200,OK,쓰레드 그룹 1-2,text,true,,854151,133,5,5,http://jagukim.pw/subway/test?view=4,33671,0,16
+1634142272974,23204,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,38
+1634142273013,23165,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,18
+1634142273000,23178,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,21
+1634142264226,31952,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,14
+1634142292903,3274,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,22
+1634142296179,5208,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,15
+1634142296179,5208,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,16
+1634142296179,5208,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,15
+1634142296179,5213,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,20
+1634142296179,5214,HTTP 요청,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: java.net.SocketException]]]
+
+****** comparison: [[[200                                             ]]]
+
+/",2437,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,15
+1634142301388,98,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,98
+1634142301388,98,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,98
+1634142301393,93,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,93
+1634142301389,97,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,97
+1634142301393,95,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,95
+1634142301487,11,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,11
+1634142301487,12,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,12
+1634142301487,13,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,13
+1634142301487,13,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,13
+1634142301489,12,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,12
+1634142301499,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301500,11,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,11
+1634142301500,11,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,11
+1634142301501,10,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,10
+1634142301502,13,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,13
+1634142301509,7,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,7
+1634142301512,7,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,7
+1634142301512,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301511,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301516,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301516,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301520,7,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,7
+1634142301521,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301520,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301525,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301525,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301527,7,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,7
+1634142301529,7,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,7
+1634142301529,8,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301533,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,8
+1634142301533,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,5,5,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301537,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,4,4,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301537,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,4,4,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301535,11,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,4,4,http://jagukim.pw/subway/test?view=4,0,0,11
+1634142301542,11,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,3,3,http://jagukim.pw/subway/test?view=4,0,0,11
+1634142301547,10,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,3,3,http://jagukim.pw/subway/test?view=4,0,0,9
+1634142301547,10,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,3,3,http://jagukim.pw/subway/test?view=4,0,0,10
+1634142301554,7,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,2,2,http://jagukim.pw/subway/test?view=4,0,0,7
+1634142301557,9,HTTP 요청,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,Non HTTP response message: Connect to jagukim.pw:80 [jagukim.pw/220.86.173.133] failed: Connection refused (Connection refused),쓰레드 그룹 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2651,0,1,1,http://jagukim.pw/subway/test?view=4,0,0,9
